@@ -163,6 +163,7 @@ h1{
     display: flex;
     justify-content: center;
     align-items: center;
+    color: white;
 }
 .bx{
     font-size: 40px;
